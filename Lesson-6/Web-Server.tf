@@ -60,3 +60,4 @@ resource "aws_security_group" "my_web_server" {
     Owner = "Danil Guzhavin"
   }
 }
+
